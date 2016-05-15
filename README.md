@@ -4,14 +4,14 @@ Documentation for the MSDV GitHub workflow and code for demos.
 ## Workflow for contributing to visualizedata repositories
 [GitHub Flow](https://guides.github.com/introduction/flow/)
 
-1. Initial setup
+1. Initial setup:
 	* [Fork a repository, create a local clone of your fork, and configure Git to sync your fork with the original repository](https://help.github.com/articles/fork-a-repo/)
 
-2. Create a branch for your edits
+2. [Create a branch for your edits](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 
 3. Pull in changes from ‘upstream’ often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).
 
-4. When you are ready for your contributions to be considered, open a Pull Request in GitHub. 
+4. When you are ready for your contributions to be considered, open a [Pull Request](https://help.github.com/articles/creating-a-pull-request/) in GitHub. 
 
 5. Use [GitHub issues](https://guides.github.com/features/issues/) to log problems and communicate. 
 
