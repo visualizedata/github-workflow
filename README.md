@@ -10,7 +10,7 @@ Overview: [GitHub Flow](https://guides.github.com/introduction/flow/)
 2. [In the local clone of your fork, create a branch for your edits](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 	* [Push your branch](https://help.github.com/articles/pushing-to-a-remote/) early and often. 
 
-3. Pull in changes from ‘upstream’ often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).
+3. Pull in changes from ‘upstream’ master often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).
 
 4. When you are ready for your contributions to be considered, open a [Pull Request](https://help.github.com/articles/creating-a-pull-request/) in GitHub. The Pull Request should be for the **master** branch of your fork. Prior to submitting the Pull Request, make sure you have completed the following: 
 	* Before merging the fork branch to the fork master, the fork master [should be up-to-date](https://help.github.com/articles/syncing-a-fork/).
