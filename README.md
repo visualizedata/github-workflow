@@ -11,7 +11,7 @@ Overview: [GitHub Flow](https://guides.github.com/introduction/flow/)
 	* [Push your branch](https://help.github.com/articles/pushing-to-a-remote/) early and often. 
 	* Never work in the master branch!
 
-3. Pull in changes from ‘upstream’ master often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/).
+3. Pull in changes from ‘upstream’ master often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork/). [This](http://stackoverflow.com/questions/16955980/git-merge-master-into-feature-branch) is another helpful explanation (read the answer with the most votes, not the answer with the green check).
 
 4. When you are ready for your contributions to be considered, open a [Pull Request](https://help.github.com/articles/creating-a-pull-request/) in GitHub. The Pull Request should be for the up-to-date **branch** of your fork. Prior to submitting the Pull Request, make sure you have completed the following: 
 	* Before merging the fork master to the fork branch, the fork master [should be up-to-date](https://help.github.com/articles/syncing-a-fork/).
@@ -19,6 +19,8 @@ Overview: [GitHub Flow](https://guides.github.com/introduction/flow/)
 	* Again, never work in the master branch!
 
 5. Use [GitHub issues](https://guides.github.com/features/issues/) to log problems and communicate. 
+
+Sometimes, you miss up and need to go back to a previous commit. [Use `revert`](https://www.atlassian.com/git/tutorials/undoing-changes/git-checkout). Do not use `reset`!
 
 ### Helpful resources
 
