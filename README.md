@@ -20,7 +20,7 @@ Overview: [GitHub Flow](https://guides.github.com/introduction/flow/)
 
 5. Use [GitHub issues](https://guides.github.com/features/issues/) to log problems and communicate. 
 
-Sometimes, you miss up and need to go back to a previous commit. [Use `revert`](https://www.atlassian.com/git/tutorials/undoing-changes/git-checkout). Do not use `reset`!
+Sometimes, you miss up and need to go back to a previous commit. [Use `revert`](https://www.atlassian.com/git/tutorials/undoing-changes/git-checkout). Do not use `reset`! Here's a helpful [Stack Overflow answer](http://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit).
 
 ### Helpful resources
 
