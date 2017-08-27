@@ -18,6 +18,9 @@ Overview: [GitHub Flow](https://guides.github.com/introduction/flow/)
 	* [Merge the fork master to the fork branch and resolve any merge conflicts](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging). 
 	* Again, never work in the master branch!
 
+	`git merge <branch>`  
+	Merge <branch> into the current branch.
+
 5. Use [GitHub issues](https://guides.github.com/features/issues/) to log problems and communicate. 
 
 Sometimes, you miss up and need to go back to a previous commit. [Use `revert`](https://www.atlassian.com/git/tutorials/undoing-changes/git-checkout). Do not use `reset`! Here's a helpful [Stack Overflow answer](http://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit).
