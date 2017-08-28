@@ -6,7 +6,9 @@ Documentation for the MSDV GitHub workflow and code for demos.
 1. Initial setup:
 	* [Fork a repository, create a local clone of your fork, and configure Git to sync your fork with the original repository](https://help.github.com/articles/fork-a-repo/)   
 
-2. In the local clone of your fork, [create a branch for your edits](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
+2. In the local clone of your fork, [create a branch for your edits](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).  
+	`git branch mybranch` creates a branch named *mybranch*  
+	`git checkout mybranch` switches to the branch *mybranch*  
 	* Do all your work in this branch. 
 	* [Push your branch](https://help.github.com/articles/pushing-to-a-remote/) to the forked repo early and often. 
 	* Never work in the `master` branch!
