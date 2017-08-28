@@ -1,5 +1,5 @@
 # github-workflow
-Documentation for the MSDV GitHub workflow and code for demos. 
+Documentation for the MSDV GitHub workflow. 
 
 ## Workflow for contributing to visualizedata repositories
 
